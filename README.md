@@ -8,4 +8,4 @@ This repository is separated into different algorithms, with each folder contain
 
 ---
 ## Table of Contents:
-- [Euclid Algorithm]
+- [Euclid Algorithm](https://github.com/clarissa-dev-codes/Algoritms/tree/main/Euclid)
